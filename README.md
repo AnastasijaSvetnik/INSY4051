@@ -40,9 +40,6 @@ The application is designed to mimic the reservation process of Sunset Hotel, in
 ## Contributing
 If you would like to contribute to the project, feel free to submit pull requests. Please follow good coding practices, and include meaningful commit messages.
 
-## License
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
 For any questions or concerns, please contact the project team:
 
