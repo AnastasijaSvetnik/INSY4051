@@ -8,7 +8,6 @@ The Sunset Hotel Reservation System is a console application designed to simulat
 - [Usage](#usage)
 - [Functionality](#functionality)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Getting Started
