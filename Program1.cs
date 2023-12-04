@@ -12,9 +12,7 @@ namespace SunsetHotelReservationSystem
             // For simplicity, let's create an instance of a Reservation System
             ReservationSystem reservationSystem = new ReservationSystem();
 
-            // Your main program logic goes here
-
-            // Example: Get user input for reservation
+            //Get user input for reservation
             Console.WriteLine("Enter your first name:");
             string firstName = Console.ReadLine();
 
@@ -30,7 +28,6 @@ namespace SunsetHotelReservationSystem
             Console.WriteLine("Enter your email:");
             string email = Console.ReadLine();
 
-            // Assume you have a method to handle reservations
             Reservation reservation = reservationSystem.MakeReservation(firstName, lastName, age, phone, email);
 
             // Display reservation details
